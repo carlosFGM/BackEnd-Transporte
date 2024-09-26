@@ -1,7 +1,7 @@
 {
     "rutas": [
         {
-            "nombre_ruta": "ruta_01",
+            "nombre_ruta": "Ruta 01",
             "id": 1,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",
@@ -17,7 +17,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_02",
+            "nombre_ruta": "Ruta 02",
             "id": 2,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",
@@ -33,7 +33,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_03",
+            "nombre_ruta": "Ruta 03",
             "id": 3,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",
@@ -49,7 +49,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_04",
+            "nombre_ruta": "Ruta 04",
             "id": 4,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",
@@ -65,7 +65,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_05",
+            "nombre_ruta": "Ruta 05",
             "id": 5,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",
@@ -81,7 +81,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_06",
+            "nombre_ruta": "Ruta 06",
             "id": 6,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",
@@ -97,7 +97,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_07",
+            "nombre_ruta": "Ruta 07",
             "id": 7,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",
@@ -113,7 +113,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_08",
+            "nombre_ruta": "Ruta 08",
             "id": 8,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",
@@ -129,7 +129,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_09",
+            "nombre_ruta": "Ruta 09",
             "id": 9,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",
@@ -145,7 +145,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_10",
+            "nombre_ruta": "Ruta 10",
             "id": 10,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",
@@ -161,7 +161,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_11",
+            "nombre_ruta": "Ruta 11",
             "id": 11,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",
@@ -177,7 +177,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_12",
+            "nombre_ruta": "Ruta 12",
             "id": 12,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",
@@ -193,7 +193,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_14",
+            "nombre_ruta": "Ruta 14",
             "id": 14,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",
@@ -209,7 +209,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_16",
+            "nombre_ruta": "Ruta 16",
             "id": 16,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",
@@ -225,7 +225,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_18",
+            "nombre_ruta": "Ruta 18",
             "id": 18,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",
@@ -241,7 +241,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_19",
+            "nombre_ruta": "Ruta 19",
             "id": 19,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",
@@ -257,7 +257,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_20",
+            "nombre_ruta": "Ruta 20",
             "id": 20,
             "horarios": "06:00-00:00",
             "imagen": "./bus.jpg",
@@ -273,7 +273,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_23",
+            "nombre_ruta": "Ruta 23",
             "id": 23,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",
@@ -289,7 +289,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_24",
+            "nombre_ruta": "Ruta 24",
             "id": 24,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",
@@ -305,7 +305,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_25",
+            "nombre_ruta": "Ruta 25",
             "id": 25,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",
@@ -321,7 +321,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_27",
+            "nombre_ruta": "Ruta 27",
             "id": 27,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",
@@ -337,7 +337,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_28",
+            "nombre_ruta": "Ruta 28",
             "id": 28,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",
@@ -353,7 +353,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_29",
+            "nombre_ruta": "Ruta 29",
             "id": 29,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",
@@ -369,7 +369,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_30",
+            "nombre_ruta": "Ruta 30",
             "id": 30,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",
@@ -385,7 +385,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_33",
+            "nombre_ruta": "Ruta 33",
             "id": 33,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",
@@ -401,7 +401,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_34",
+            "nombre_ruta": "Ruta 34",
             "id": 34,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",
@@ -417,7 +417,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_35",
+            "nombre_ruta": "Ruta 35",
             "id": 35,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",
@@ -433,7 +433,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_36",
+            "nombre_ruta": "ruta 36",
             "id": 36,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",
@@ -449,7 +449,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_37",
+            "nombre_ruta": "Ruta 37",
             "id": 37,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",
@@ -465,7 +465,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_38",
+            "nombre_ruta": "Ruta 38",
             "id": 38,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",
@@ -481,7 +481,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_39",
+            "nombre_ruta": "Ruta 39",
             "id": 39,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",
@@ -497,7 +497,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_40",
+            "nombre_ruta": "Ruta 40",
             "id": 40,
             "horarios": "06:00-00:00",
             "imagen": "./bus.jpg",
@@ -513,7 +513,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_41_Penal",
+            "nombre_ruta": "Ruta 41 Penal",
             "id": 41,
             "horarios": "06:00-00:00",
             "imagen": "./bus.jpg",
@@ -529,7 +529,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_41_Alameda",
+            "nombre_ruta": "Ruta 41 Alameda",
             "id": 41,
             "horarios": "06:00-00:00",
             "imagen": "./bus.jpg",
@@ -545,7 +545,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_42",
+            "nombre_ruta": "Ruta 42",
             "id": 42,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",
@@ -561,7 +561,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_43",
+            "nombre_ruta": "Ruta 43",
             "id": 43,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",
@@ -577,7 +577,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_45",
+            "nombre_ruta": "Ruta 45",
             "id": 45,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",
@@ -593,7 +593,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_46",
+            "nombre_ruta": "Ruta 46",
             "id": 46,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",
@@ -609,7 +609,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_47",
+            "nombre_ruta": "Ruta 47",
             "id": 47,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",
@@ -625,7 +625,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_48",
+            "nombre_ruta": "Ruta 48",
             "id": 48,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",
@@ -641,7 +641,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_50",
+            "nombre_ruta": "Ruta 50",
             "id": 50,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",
@@ -657,7 +657,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_50B",
+            "nombre_ruta": "Ruta 50B",
             "id": 50,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",
@@ -673,7 +673,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_51",
+            "nombre_ruta": "Ruta 51",
             "id": 51,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",
@@ -689,7 +689,7 @@
             ]
         },
         {
-            "nombre_ruta": "ruta_UTR",
+            "nombre_ruta": "Ruta UTR",
             "id": 99,
             "horarios": "06:00-21:00",
             "imagen": "./bus.jpg",

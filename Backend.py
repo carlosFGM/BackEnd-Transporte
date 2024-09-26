@@ -2,7 +2,7 @@ from flask import Flask, request, jsonify
 from flask_sqlalchemy import SQLAlchemy
 from email_validator import validate_email, EmailNotValidError
 from datetime import datetime
-import os, secrets, pytz, json
+import os, secrets, pytz, json, bcrypt 
 from flask_cors import CORS
 
 app = Flask(__name__)
@@ -83,11 +83,12 @@ def insertar_usuario():
         token = secrets.token_hex(25)
         fecha_creacion = datetime.now(cdmx_tz)
         fecha_actualizacion = datetime.now(cdmx_tz)
+        hashed_password = bcrypt.hashpw(data['password'].encode('utf-8'), bcrypt.gensalt())
         
         nuevo_usuario = Usuario(
             nombres=data['nombres'],
             correo=data['correo'],
-            password=data['password'],
+            password=hashed_password.decode('utf-8'),
             telefono=data['telefono'],
             token=token,
             fecha_creacion=fecha_creacion,
@@ -115,7 +116,7 @@ def login():
         if not usuario:  
             return jsonify({"mensaje": "Usuario no encontrado"}), 404
         
-        if usuario.password != password:  
+        if not bcrypt.checkpw(password.encode('utf-8'), usuario.password.encode('utf-8')):
             return jsonify({"mensaje": "Contraseña incorrecta"}), 401
         
         return jsonify({
