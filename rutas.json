@@ -1,0 +1,708 @@
+{
+    "rutas": [
+        {
+            "nombre_ruta": "ruta_01",
+            "id": 1,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 01 - Margaritas - Vicente Guerrero",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 01 - Vicente Guerrero - Margaritas",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_02",
+            "id": 2,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 02 - Centro (Jardín Carpio) - Los Cactus",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 02 - Los Cactus - Centro (Jardín Carpio)",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_03",
+            "id": 3,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 03 - La Ribera - UAA Sur",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 03 - UAA Sur - La Ribera",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_04",
+            "id": 4,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 04 - Jesus Maria - Terminal Sur",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 04 - Terminal sur - Jesus Maria",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_05",
+            "id": 5,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 05 - La Ribera - Vicente Guerrero",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 05 - Vicente Guerrero - La Ribera",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_06",
+            "id": 6,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 06 - Jesus Maria - Terminal Sur",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 06 - Terminal sur - Jesus Maria",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_07",
+            "id": 7,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 07 - Centro (Jardin de Zaragoza) - Las Palmas",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 07 - Las Palmas - Centro (Jardin de Zaragoza)",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_08",
+            "id": 8,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 08 - Centro (Rivero y Gutierrez) - UTMA",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 08 - UTMA - Centro (Rivero y Gutierrez)",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_09",
+            "id": 9,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 09 - Terminal Sur - Los Laureles",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 09 - Los Laureles - Terminal Sur",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_10",
+            "id": 10,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 10 - Paseos de Aguascalientes - UAA Sur",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 10 - UAA Sur - Paseos de Aguascalientes",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_11",
+            "id": 11,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 11 - Chichimeco - Terminal Sur",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 11 - Terminal Sur - Chichimeco",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_12",
+            "id": 12,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 12 - Lunaria - Vicente Guerrero",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 12 - Vicente Guerrero - Lunaria",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_14",
+            "id": 14,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 14 - Lunaria - Vicente Guerrero",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 14 - Vicente Guerrero - Lunaria",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_16",
+            "id": 16,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 16 - Bellavista - Hacienda Nueva",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 16 - Hacienda Nueva - Bellavista",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_18",
+            "id": 18,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 18 - Lunaria - UAA",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 18 - UAA - Lunaria",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_19",
+            "id": 19,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 19 - Pocitos - Vistas de Oriente",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 19 - Vistas de Oriente - Pocitos",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_20",
+            "id": 20,
+            "horarios": "06:00-00:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 20 N - Terminal Oriente - Terminal Oriente",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 20 S - Terminal Oriente - Terminal Oriente",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_23",
+            "id": 23,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 23 - Los Arquitos - Villa Montaña",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 23 - Villa Montaña - Los Arquitos",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_24",
+            "id": 24,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 24 - Los Negritos - Vistas de Oriente",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 24 - Vistas de Oriente - Los Negritos",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_25",
+            "id": 25,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 25 - Las Palmas - UTA",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 25 - UTA - Las Palmas",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_27",
+            "id": 27,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 27 - Los Cactus - Vicente Guerrero",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 27 - Vicente Guerrero - Los Cactus",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_28",
+            "id": 28,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 28 - Chichimeco - Terminal Sur",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 28 - Terminal sur - Chichimeco",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_29",
+            "id": 29,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 29 - Lunaria - Centro (Jardín de Zaragoza)",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 29 - Centro (Jardín de Zaragoza) - Lunaria",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_30",
+            "id": 30,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 30 - Martinez Dominguez - Villa Montaña",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 30 - Villa Montaña - Martinez Dominguez",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_33",
+            "id": 33,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 33 - Jesus Maria - Terminal Sur",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 33 - Terminal Sur - Jesus Maria",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_34",
+            "id": 34,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 34 - UPA - Villa Montaña",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 34 - Villa Montaña - UPA",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_35",
+            "id": 35,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 35 - Lunaria - UAA",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 35 - UAA - Lunaria",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_36",
+            "id": 36,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 36 - Centro (Mercado Teran) - Lunaria",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 36 - Lunaria - Centro (Mercado Teran)",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_37",
+            "id": 37,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 37 - Hacienda San Marcos - UTMA",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 37 - UTMA - Hacienda San Marcos",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_38",
+            "id": 38,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 38 - Paso Blanco - Vicente Guerrero",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 38 - Vicente Guerrero - Paso Blanco",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_39",
+            "id": 39,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 39 - Centro (Jardin de Zaragoza) - El Conejal",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 39 - El Conejal - Centro (Jardin de Zaragoza)",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_40",
+            "id": 40,
+            "horarios": "06:00-00:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 40 N - Terminal Oriente - Terminal Oriente",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 40 S - Terminal Oriente - Terminal Oriente",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_41_Penal",
+            "id": 41,
+            "horarios": "06:00-00:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 41 (Penal) - Terminal Oriente - EATON",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 41 (Penal) - EATON - Terminal Oriente",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_41_Alameda",
+            "id": 41,
+            "horarios": "06:00-00:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 41 (Alameda) - Terminal Oriente - EATON",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 41 (Alameda) - EATON - Terminal Oriente",
+                    "estatus": "ida"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_42",
+            "id": 42,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 42 - Bellavista - Terminal Sur",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 42 - Terminal Sur - Bellavista",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_43",
+            "id": 43,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 43 - Villas El Puertecito - San Antonio",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 43 - San Antonio - Villas El Puertecito",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_45",
+            "id": 45,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 45 - Los Cactus - UAA",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 45 - UAA - Los Cactus",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_46",
+            "id": 46,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 46 - Calvillito - Vicente Guerrero",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 46 - Vicente Guerrero - Calvillito",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_47",
+            "id": 47,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 47 - Hacienda San Marcos - Clinica 10",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 47 - Clinica 10 - Hacienda San Marcos",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_48",
+            "id": 48,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 48 - Bellavista - Centro (Panteon de la Cruz)",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 48 - Centro (Panteon de la Cruz) - Bellavista",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_50",
+            "id": 50,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 50 - Chicahuales - UTA",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 50 - UTA - Chicahuales",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_50B",
+            "id": 50,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 50 B - UTA - Chicahuales",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 50 B - Chicahuales - UTA",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_51",
+            "id": 51,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA 51 - Puertecito de la Virgen - Casa Blanca",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA 51 - Casa Blanca  - Puertecito de la Virgen",
+                    "estatus": "vuelta"
+                }
+            ]
+        },
+        {
+            "nombre_ruta": "ruta_UTR",
+            "id": 99,
+            "horarios": "06:00-21:00",
+            "imagen": "./bus.jpg",
+            "detalles": [
+                {
+                    "nombre": "RUTA ESPECIAL UTR - Av. Siglo XXI - Norias del Paso Hondo - UTR",
+                    "estatus": "ida"
+                },
+                {
+                    "nombre": "RUTA ESPECIAL UTR - UTR - Norias del Paso Hondo - Av. Siglo XXI",
+                    "estatus": "vuelta"
+                }
+            ]
+        }
+    ]
+}
